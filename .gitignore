@@ -1,0 +1,46 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Crash reports
+sysinfo.txt
+mono_crash.*
+
+# IDE / Visual Studio
+.vs/
+.gradle/
+.consulo/
+
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Build files
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# JetBrains / Rider
+*.DotSettings.user
+
+# Memory / recordings
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Addressables generated files
+/ServerData
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# UI Toolkit generated files
+/UIElementsSchema/
